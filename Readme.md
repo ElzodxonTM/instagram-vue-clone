@@ -10,7 +10,11 @@ yarn serve
 # production
 yarn build
 ```
-## TODOS
+
+## Todo in English language
+
+## Todo in uzbek language
+
 - [x] Qilinadigan ish xaqida qisqacha malumot
 - [x] Vue-cli yordamida loyihani sozlash.
 - [x] CSS infratuzilmasi va tipografiyasi. Loyihada piktogramma tayyorlash (svg).
